@@ -2,7 +2,7 @@
 
 ## IR Debit Card Scanner
 
-A lightweight android library to scan Iranian debit cards fast and realtime using Deep Learning and TensorFlow-Lite.
+A lightweight android library to scan debit cards fast and realtime using Deep Learning and TensorFlow-Lite.
 This library scans valid card numbers only.
 Keep in mind that split ABIs while releasing your app to reduce its size.
 
