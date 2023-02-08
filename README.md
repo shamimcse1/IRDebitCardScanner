@@ -60,13 +60,6 @@ ScanActivity.start(this, "IRDC Scanner",
 ```
 In this mode texts in scanner activity would be set as you prefer.
 
-## Contact me
-
-If you have a better idea or way on this project, please let me know. Thanks :) ?:
-
-- [Email](mailto:arefprivate@gmail.com)
-- [Website [En]](http://arefdev.ir/en) - [Website [Fa]](http://arefdev.ir)
-
 License
 ---------------------------
 
